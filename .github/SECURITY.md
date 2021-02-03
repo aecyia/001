@@ -1,5 +1,3 @@
-Untouched File:
-
 # Security Policy
 
 ## Supported Versions
