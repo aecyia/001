@@ -1,0 +1,25 @@
+A compilation of the mods that I use for Stardew Valley
+The numbers are their corresponding link number at: https://www.nexusmods.com/stardewvalley/mods/####
+
+Animal Patting — 3837
+Automate — 1063
+BJS No Clip — 2820
+BJS Time Skipper — 2178
+Chests Anywhere — 518
+CJB Cheats Menu — 4
+CJB Item Spawner — 93
+Console Commands ( SMAPI )
+Content Patcher — 1915
+Convenient Chests — 2196
+Generic Mod Config Menu ( GMCM ) — 5098
+Gift Taste Helper — 229
+Increased Artifact Spots — 3340
+Lookup Anything — 541
+NPC Map Locations — 239
+Range Display — 1179
+SaveBackup ( SMAPI )
+Stack Everything — 2053
+Tractor Mod — 1401
+Elle’s Seasonal Buildings ( Needs Content Patcher + SMAPI ) — 1993
+Bigger Backpack ( Needs StardewHack + SMAPI ) — 1845
+Seasonal Villager Outfits ( Needs Content Patcher + SMAPI + GMCM ) — 2449
