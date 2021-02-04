@@ -23,3 +23,55 @@ Tractor Mod — 1401
 Elle’s Seasonal Buildings ( Needs Content Patcher + SMAPI ) — 1993
 Bigger Backpack ( Needs StardewHack + SMAPI ) — 1845
 Seasonal Villager Outfits ( Needs Content Patcher + SMAPI + GMCM ) — 2449
+================================================================================
+Animal Names
+Bunnies
+	Booplesnoot
+	Bugs Bunny
+	Floofpoof
+	Hopnoodle
+	Judy Hopps
+	Lola Bunny
+Chickens
+	Drumstick
+	Eggstein
+	M-Clucker
+	Nugget
+Cows
+	Beef
+	Big Mac
+	Cheeseburger
+	Cownt Moocula
+	Hamburger
+	Ice Cream
+	Leo DiCowprio
+	Meatloaf
+	Milk
+	Milkshake
+	Milky Way
+	Mooana
+Ducks
+	Daffy
+	Dr Duckula
+	Duckpression
+	Sgt. Waddles
+	Sir Quackers
+Goats
+	Daredevil
+	Hades
+	Lucifer
+	Mephistopheles / Mephisto
+	Satan
+Pigs
+	Bacon
+	Bank
+	Chewbacon
+	Ham
+	Truffle
+Sheep
+	Dumbledore
+	Gandalf
+	Mittens
+	Woolsworth
+	Wooly
+================================================================================
