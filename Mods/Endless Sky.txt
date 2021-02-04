@@ -1,0 +1,5 @@
+Wiki: https://endless-sky.fandom.com/wiki/Endless_Sky_Wikia
+
+Original Game: https://github.com/endless-sky
+
+Plugin: https://github.com/endless-sky/all-content-plugin
