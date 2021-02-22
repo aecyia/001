@@ -1,6 +1,6 @@
 Modified Files
 
-Astelia Ai
+New File
 +	Neutral Start
-+	Added funds
-+	Shuttle starter
++	100 Trillion Credits
++	Know all systems and maps

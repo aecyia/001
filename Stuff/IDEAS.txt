@@ -27,7 +27,6 @@ VRMMORPG
 	+	open world
 	+	aura kingdom vibes
 		+	anime-esque
-		+	
 	+	log horizon
 		+	the menu setup
 		+	the immense world building
