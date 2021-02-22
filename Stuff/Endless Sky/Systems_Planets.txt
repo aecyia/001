@@ -1,0 +1,732 @@
+# What you know:
+visted "1 Axis"
+visted "10 Pole"
+visted "11 Autumn Above"
+visted "11 Spring Below"
+visted "12 Autumn Above"
+visted "14 Pole"
+visted "14 Summer Above"
+visted "14 Winter Below"
+visted "16 Autumn Rising"
+visted "3 Axis"
+visted "3 Pole"
+visted "3 Spring Rising"
+visted "4 Axis"
+visted "4 Spring Rising"
+visted "4 Summer Rising"
+visted "4 Winter Rising"
+visted "5 Axis"
+visted "5 Spring Below"
+visted "5 Summer Above"
+visted "5 Winter Above"
+visted "7 Autumn Rising"
+visted "8 Winter Below"
+visted "9 Spring Above"
+visted Ablodab
+visted Ablub
+visted Acamar
+visted Achernar
+visted Acrux
+visted Adhara
+visted Aescolanus
+visted "Aki'il"
+visted "Al Dhanab"
+visted Albaldah
+visted Albireo
+visted Alcyone
+visted Aldebaran
+visted Alderamin
+visted Aldhibain
+visted Algenib
+visted Algieba
+visted Algol
+visted Algorel
+visted Alheka
+visted Alhena
+visted Alioth
+visted Alkaid
+visted Almaaz
+visted Almach
+visted Alnair
+visted Alnasl
+visted Alnilam
+visted Alnitak
+visted Alniyat
+visted "Alpha Arae"
+visted "Alpha Centauri"
+visted "Alpha Hydri"
+visted Alphard
+visted Alphecca
+visted Alpheratz
+visted Altair
+visted Aludra
+visted "Ancient Hope"
+visted Ankaa
+visted Answer
+visted Antares
+visted Antevorta
+visted Ap'arak
+visted Arcturus
+visted Arculus
+visted Arneb
+visted Ascella
+visted Asikafarnut
+visted Aspidiske
+visted Atria
+visted Avior
+visted Aya'k'k
+visted Beginning
+visted Bellatrix
+visted Belonging
+visted Belug
+visted Belugt
+visted "Beta Lupi"
+visted Betelgeuse
+visted Bloptab
+visted Blubipad
+visted Blugtad
+visted Boral
+visted "Bore Fah"
+visted "Bote Asu"
+visted "Bright Void"
+visted "Broken Bowl"
+visted Caeculus
+visted Canopus
+visted Capella
+visted Caph
+visted Cardax
+visted Cardea
+visted Castor
+visted Cebalrai
+visted Celeborim
+visted Chikatip
+visted Chimitarp
+visted Chirr'ay'akai
+visted Chornifath
+visted Chy'chra
+visted Cinxia
+visted Coluber
+visted Companion
+visted Convector
+visted "Cor Caroli"
+visted "Da Ent"
+visted "Da Lest"
+visted Dabih
+visted Danoa
+visted "Dark Hills"
+visted Debrugt
+visted Delia
+visted "Delta Capricorni"
+visted "Delta Sagittarii"
+visted "Delta Velorum"
+visted Deneb
+visted Denebola
+visted Diphda
+visted Dixere
+visted Dokdobaru
+visted Dschubba
+visted Dubhe
+visted "Due Yoot"
+visted Durax
+visted Eber
+visted Eblumab
+visted Edusa
+visted "Ehma Ti"
+visted Ek'kek'ru
+visted Ekuarik
+visted Elnath
+visted Eltanin
+visted Eneremprukt
+visted Enif
+visted "Epsilon Leonis"
+visted Es'sprak'ai
+visted Eshkoshtar
+visted Esix
+visted Eteron
+visted "Fah Root"
+visted "Fah Soom"
+visted Fala
+visted "Fallen Leaf"
+visted "Far Horizon"
+visted Farbutero
+visted Farinus
+visted Faronektu
+visted Fasitopfar
+visted Fearis
+visted "Fell Omen"
+visted Feraticus
+visted Fereti
+visted Feroteri
+visted Ferukistek
+visted Fingol
+visted Flugbu
+visted Fomalhaut
+visted Fornarep
+visted "Four Pillars"
+visted Furmeliki
+visted Gacrux
+visted "Gamma Cassiopeiae"
+visted "Gamma Corvi"
+visted Gerenus
+visted Gienah
+visted Giribea
+visted Girtab
+visted Glubatub
+visted Gomeisa
+visted "Good Omen"
+visted Gorvi
+visted Graffias
+visted Gupta
+visted Hadar
+visted Hamal
+visted Han
+visted Hassaleh
+visted Hatysa
+visted "Heia Due"
+visted Hesselpost
+visted "Hevru Hai"
+visted "Hi Yahr"
+visted Hintar
+visted Holeb
+visted Homeward
+visted Host
+visted Hunter
+visted Ik'kara'ka
+visted Ildaria
+visted "Imo Dep"
+visted Insitor
+visted "Io Lowe"
+visted "Io Mann"
+visted Ipsing
+visted Iyech'yek
+visted Izar
+visted Ka'ch'chrai
+visted Ka'pru
+visted Kaliptari
+visted "Kappa Centauri"
+visted Kashikt
+visted Kasikfar
+visted "Kaus Australis"
+visted "Kaus Borealis"
+visted "Ki War Ek"
+visted Kiro'ku
+visted Kiru'kichi
+visted Kochab
+visted "Kor Ak'Mari"
+visted "Kor En'lakfar"
+visted "Kor Fel'tar"
+visted "Kor Men"
+visted "Kor Nor'peli"
+visted "Kor Tar'bei"
+visted "Kor Zena'i"
+visted Kornephoros
+visted Korsmanath
+visted Kraz
+visted Kugel
+visted Kursa
+visted "Last Word"
+visted Lesath
+visted Levana
+visted Limen
+visted Lolami
+visted Lire
+visted "Lom Tahr"
+visted "Lone Cloud"
+visted Lucina
+visted Lurata
+visted Makferuti
+visted Markab
+visted Markeb
+visted Matar
+visted Mebsuta
+visted Mebla
+visted Meftarkata
+visted "Mei Yohn"
+visted Mekislepti
+visted Membulem
+visted Men
+visted Menkalinan
+visted Menkar
+visted Menkent
+visted Merak
+visted Mesuket
+visted Miaplacidus
+visted Miblulub
+visted Mimosa
+visted Minkar
+visted Mintaka
+visted Mirach
+visted Mirfak
+visted Mirzam
+visted Mizar
+visted Moktar
+visted Mora
+visted Muhlifain
+visted Muphrid
+visted Naos
+visted Naper
+visted Nenia
+visted Nihal
+visted Nocte
+visted Nona
+visted Nunki
+visted Oblate
+visted Orbona
+visted Orvala
+visted Ossipago
+visted Paelia
+visted Pantica
+visted Parca
+visted Peacock
+visted Pelubta
+visted Peragenor
+visted Peresedersi
+visted Perfica
+visted Persian
+visted Persitar
+visted Phact
+visted Phecda
+visted Pherkad
+visted Phurad
+visted Pik'ro'iyak
+visted Plort
+visted Polaris
+visted Polerius
+visted Pollux
+visted Porrima
+visted Prakacha'a
+visted Procyon
+visted "Pug Iyik"
+visted Quaru
+visted Queri
+visted Rajak
+visted Rasalhague
+visted Rastaban
+visted "Rati Cal"
+visted Regor
+visted Regulus
+visted Relifer
+visted Remembrance
+visted Rigel
+visted Ritilas
+visted Ruchbah
+visted Rutilicus
+visted Sabik
+visted Sabriset
+visted Sadalmelik
+visted Sadalsuud
+visted Sadr
+visted "Sagittarius A*"
+visted Saiph
+visted Salipastart
+visted Sargas
+visted Sarin
+visted Sayaiban
+visted Scheat
+visted Schedar
+visted Segesta
+visted Seketra
+visted Sepetrosk
+visted Sepriaptu
+visted Sevrelect
+visted Shaula
+visted Sheratan
+visted Si'yak'ku
+visted Sich'ka'ara
+visted Silikatakfar
+visted "Silver Bell"
+visted "Silver String"
+visted Similisti
+visted Sirius
+visted Skeruto
+visted Sko'karak
+visted Sobarati
+visted Sol
+visted "Sol Arach"
+visted "Sol Kimek"
+visted "Sol Saryd"
+visted Solifar
+visted Sospi
+visted Speloog
+visted Spica
+visted "Steep Roof"
+visted Stercutus
+visted Suhail
+visted Sumar
+visted Sumprast
+visted Tais
+visted Talita
+visted "Tania Australis"
+visted Tarazed
+visted Tebuteb
+visted Tejat
+visted Terminus
+visted Torbab
+visted Tortor
+visted Turais
+visted "Ula Mon"
+visted "Ultima Thule"
+visted Umbral
+visted Unagi
+visted Unukalhai
+visted "Uwa Fahn"
+visted Vega
+visted Vindemiatrix
+visted Volax
+visted "Wah Ki"
+visted "Wah Yoot"
+visted "Wah Oh"
+visted Waypoint
+visted Wazn
+visted Wei
+visted Wezen
+visted "Ya Hai"
+visted "Yed Prior"
+visted Zaurak
+visted "Zeta Aquilae"
+visted "Zeta Centauri"
+visted Zosma
+visted "Zuba Zub"
+visted Zubenelgenubi
+visted Zubeneschamali
+"visted planet" "Ablub's Invention"
+"visted planet" Ada
+"visted planet" Ahr
+"visted planet" Albatross
+"visted planet" Alexandria
+"visted planet" Alfheim
+"visted planet" Alix
+"visted planet" Allhome
+"visted planet" "Alta Hai"
+"visted planet" Amazon
+"visted planet" Antipode
+"visted planet" Arabia
+"visted planet" "Arachne Station"
+"visted planet" "Aresepru Nat"
+"visted planet" Asgard
+"visted planet" "Ashy Reach"
+"visted planet" Avalon
+"visted planet" Aventine
+"visted planet" "Bank of Blugtad"
+"visted planet" "Belug's Plunge"
+"visted planet" "Big Sky"
+"visted planet" Bivrost
+"visted planet" Bloodsea
+"visted planet" "Bloptab's Furnace"
+"visted planet" "Blubipad's Workshop"
+"visted planet" "Blue Interior"
+"visted planet" Bluestone
+"visted planet" Bounty
+"visted planet" Bourne
+"visted planet" "Bright Echo"
+"visted planet" "Brass Second"
+"visted planet" "Buccaneer Bay"
+"visted planet" Burthen
+"visted planet" Caelian
+"visted planet" Calda
+"visted planet" Canyon
+"visted planet" "Ceaseless Toil"
+"visted planet" "Carbuncle Station"
+"visted planet" Celeatis
+"visted planet" "Celestial Third"
+"visted planet" Ceilia'sei
+"visted planet" Veliante
+"visted planet" "Charon Station"
+"visted planet" "Charybdis Station"
+"visted planet" Chiron
+"visted planet" "Chosen Nexus"
+"visted planet" Clark
+"visted planet" Clink
+"visted planet" Cloudfire
+"visted planet" "Cold Horizon"
+"visted planet" "Cool Forest"
+"visted planet" Cornucopia
+"visted planet" "Corral of Meblumem"
+"visted planet" Covert
+"visted planet" Crossroads
+"visted planet" Dancer
+"visted planet" Darkcloak
+"visted planet" Darkmetal
+"visted planet" Darkstone
+"visted planet" Darkwaste
+"visted planet" "Deadman's Cove"
+"visted planet" "Deep Treasure"
+"visted planet" Deep
+"visted planet" "Deep Water"
+"visted planet" Delve
+"visted planet" "Delve of Bloptab"
+"visted planet" "Desi Seledrak"
+"visted planet" "Devru Kaska"
+"visted planet" "Diligent Hand"
+"visted planet" "Double Haze"
+"visted planet" "Drekag Firask"
+"visted planet" Dune
+"visted planet" "Dusk Companion"
+"visted planet" Dustmaker
+"visted planet" "Dwelling of Speloog"
+"visted planet" Earth
+"visted planet" Eavine
+"visted planet" Echo
+"visted planet" "Elek Kartanu"
+"visted planet" "Ember Graveyard"
+"visted planet" "Ember Reaches"
+"visted planet" "Ember Threshold"
+"visted planet" "Ember Wormhole"
+"visted planet" "Esayaku Fen"
+"visted planet" "Esek Stovar"
+"visted planet" "Eskar Kortuka"
+"visted planet" "Esperaktu Station"
+"visted planet" "Factory of Eblumab"
+"visted planet" "Far Garden"
+"visted planet" "Far Home"
+"visted planet" "Far Monad"
+"visted planet" "Far'en Lai"
+"visted planet" "Fara Skaeruti"
+"visted planet" Farpoint
+"visted planet" Farseer
+"visted planet" Farwater
+"visted planet" Featherweight
+"visted planet" "Fek Rembatu"
+"visted planet" "Fenrir Station"
+"visted planet" Firelode
+"visted planet" "Firka Tesk"
+"visted planet" Flood
+"visted planet" "Flowing Fields"
+"visted planet" Follower
+"visted planet" Forpelog
+"visted planet" Foundry
+"visted planet" "Fourth Shadow"
+"visted planet" Freedom
+"visted planet" Frostmark
+"visted planet" Furnace
+"visted planet" Geminus
+"visted planet" Gemstone
+"visted planet" "Gentle Rain"
+"visted planet" Geyser
+"visted planet" Giverstone
+"visted planet" Glaze
+"visted planet" "Glittering Ice"
+"visted planet" Glory
+"visted planet" Grakhord
+"visted planet" "Graveyard Wormhole (Unstable)"
+"visted planet" "Graveyard Wormhole (Stable)"
+"visted planet" Greenbloom
+"visted planet" Greenrock
+"visted planet" Greenwater
+"visted planet" "Gresku Fodar"
+"visted planet" Hai-home
+"visted planet" "Hammer of Debrugt"
+"visted planet" Haven
+"visted planet" Haze
+"visted planet" Heartland
+"visted planet" Heartvalley
+"visted planet" Helheim
+"visted planet" Hephaestus
+"visted planet" Hermes
+"visted planet" Hestia
+"visted planet" Hippocrates
+"visted planet" Hope
+"visted planet" Hopper
+"visted planet" "Huginn Station"
+"visted planet" Humanika
+"visted planet" "Hydra Station"
+"visted planet" Icefall
+"visted planet" Icelake
+"visted planet" Ingot
+"visted planet" "Inmost Blue"
+"visted planet" "Into White"
+"visted planet" "Kaeyin"
+"visted planet" "Karek Fornati"
+"visted planet" "Kasichara Fet"
+"visted planet" "Keneska Fek"
+"visted planet" "Kessel Sepret"
+"visted planet" "Ki Patek Ka"
+"visted planet" "Korati Efreti"
+"visted planet" "Korbatri Eska"
+"visted planet" "Kort Kehai"
+"visted planet" "Kort Vek'kri"
+"visted planet" "Kraken Station"
+"visted planet" "Kuwaru Efreti"
+"visted planet" Lagrange
+"visted planet" "Laki Nemparu"
+"visted planet" "Leviathan Station"
+"visted planet" Lichen
+"visted planet" Lodestone
+"visted planet" Longjump
+"visted planet" Luna
+"visted planet" Maelstrom
+"visted planet" Mainsail
+"visted planet" Maker
+"visted planet" Makerplace
+"visted planet" Mani
+"visted planet" "Market of Gupta"
+"visted planet" Mars
+"visted planet" Martini
+"visted planet" "Mebla's Portion"
+"visted planet" Memory
+"visted planet" "Merask Fortuno"
+"visted planet" Mere
+"visted planet" "Mereti Station"
+"visted planet" "Miblulub's Plenty"
+"visted planet" Midgard
+"visted planet" "Midway Emerald"
+"visted planet" Millrace
+"visted planet" Mirrorlake
+"visted planet" Moonshake
+"visted planet" "Muninn Station"
+"visted planet" Muspel
+"visted planet" Mutiny
+"visted planet" Mystery
+"visted planet" Nasqueron
+"visted planet" "Nearby Jade"
+"visted planet" "New Argentina"
+"visted planet" "New Austria"
+"visted planet" "New Boston"
+"visted planet" "New Britain"
+"visted planet" "New China"
+"visted planet" "New Finding"
+"visted planet" "New Greenland"
+"visted planet" "New Holland"
+"visted planet" "New Iceland"
+"visted planet" "New India"
+"visted planet" "New Kansas"
+"visted planet" "New Portland"
+"visted planet" "New Sahara"
+"visted planet" "New Switzerland"
+"visted planet" "New Tibet"
+"visted planet" "New Wales"
+"visted planet" "New Washington"
+"visted planet" Newhome
+"visted planet" Nifel
+"visted planet" Nimbus
+"visted planet" Norn
+"visted planet" Oasis
+"visted planet" Oberon
+"visted planet" Osaeli
+"visted planet" Palarei
+"visted planet" Parii'het
+"visted planet" Pearl
+"visted planet" "Phoenix Station"
+"visted planet" "Pelubta Station"
+"visted planet" Pilot
+"visted planet" Placer
+"visted planet" "Plort's Water"
+"visted planet" Poisonwood
+"visted planet" Poseidos
+"visted planet" Prime
+"visted planet" Pugglemug
+"visted planet" Pugglequat
+"visted planet" Querii'ka
+"visted planet" Quicksilver
+"visted planet" Rand
+"visted planet" "Refuge of Belugt"
+"visted planet" "Rekat Moraski"
+"visted planet" Relic
+"visted planet" "Remnant Wormhole"
+"visted planet" "Remote Blue"
+"visted planet" Retilie
+"visted planet" Reunion
+"visted planet" Revelation
+"visted planet" "Ring of Friendship"
+"visted planet" "Ring of Power"
+"visted planet" "Ring of Wisdom"
+"visted planet" Rust
+"visted planet" "Rusty Second"
+"visted planet" "Sabira Eseskrai"
+"visted planet" "Safaresk Enlai"
+"visted planet" "Sandy Two"
+"visted planet" "Sapira Mereti"
+"visted planet" "Sarisa Fentra"
+"visted planet" "Sasirka Gatru"
+"visted planet" Saros
+"visted planet" "Sebra Skira"
+"visted planet" "Second Cerulean"
+"visted planet" "Second Rose"
+"visted planet" "Second Viridian"
+"visted planet" "Secret Sky"
+"visted planet" "Sek Alarfarat"
+"visted planet" "Selefkar Refinery"
+"visted planet" "Seleptra Nak"
+"visted planet" Seli'het
+"visted planet" "Separa Tiklar"
+"visted planet" "Septar Lorku"
+"visted planet" Serpens
+"visted planet" "Sessiliki Far"
+"visted planet" "Sestor Ikfar"
+"visted planet" "Setar Fort"
+"visted planet" "Shadow of Leaves"
+"visted planet" "Shadowed Valley"
+"visted planet" Shangri-La
+"visted planet" "Shifting Sand"
+"visted planet" Shiver
+"visted planet" Shorebreak
+"visted planet" Shroud
+"visted planet" Silver
+"visted planet" Sinter
+"visted planet" Siteria
+"visted planet" Skillet
+"visted planet" Skyfarm
+"visted planet" Skymoot
+"visted planet" Slylandro
+"visted planet" "Smuggler's Den"
+"visted planet" Snowfeather
+"visted planet" "Solima Skarati"
+"visted planet" "Sopi Lefarkata"
+"visted planet" "Spera Anatrusk"
+"visted planet" Splashdown
+"visted planet" Starcross
+"visted planet" "Starting Rubin"
+"visted planet" "Station Cian"
+"visted planet" Stonebreak
+"visted planet" Stormhold
+"visted planet" "Stronghold of Flugbu"
+"visted planet" Sundive
+"visted planet" Sundrinker
+"visted planet" Sunracer
+"visted planet" "Tebuteb's Table"
+"visted planet" "Tefkar Ret"
+"visted planet" "Third Umber"
+"visted planet" Thrall
+"visted planet" Thule
+"visted planet" Thunder
+"visted planet" "Tik Klai"
+"visted planet" Tinker
+"visted planet" Trinket
+"visted planet" "Triton Station"
+"visted planet" Trove
+"visted planet" Tundra
+"visted planet" "Turquoise Four"
+"visted planet" Twinstar
+"visted planet" "Typhon Station"
+"visted planet" Vail
+"visted planet" Valhalla
+"visted planet" "Var' Kar'i'i"
+"visted planet" "Var' Kayi"
+"visted planet" "Var' Roi"
+"visted planet" "Vara K'chrai"
+"visted planet" "Vara Ke'sok"
+"visted planet" "Vara Ke'stai"
+"visted planet" "Vara Kehi'ki"
+"visted planet" "Vara Pug"
+"visted planet" "Vara Rakak"
+"visted planet" "Varu Ek'lak'lai"
+"visted planet" "Varu K'est"
+"visted planet" "Varu K'prai"
+"visted planet" "Varu Mer'ek"
+"visted planet" "Varu Tek'kai"
+"visted planet" "Vibrant Water"
+"visted planet" "Varu Tev'kei"
+"visted planet" Viminal
+"visted planet" Vinci
+"visted planet" Warfeed
+"visted planet" "Warm Slope"
+"visted planet" "Warm Wind"
+"visted planet" Watcher
+"visted planet" Wayfarer
+"visted planet" "Weir of Glubatub"
+"visted planet" Windblain
+"visted planet" Winter
+"visted planet" "Wormhole Alpha"
+"visted planet" "Wyvern Station"
+"visted planet" Zenith
+"visted planet" Zug

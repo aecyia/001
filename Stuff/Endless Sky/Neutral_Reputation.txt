@@ -1,0 +1,52 @@
+"reputation with"
+	" Drak " 0
+	" Hai " 0
+	" Independent " 0
+	" Ka'het " 0
+	" Kor Mereti " 0
+	" Scar's Legion " 0
+	Alpha 0
+	Author 0
+	"Bad Trip" 0
+	Bounty 0
+	"Bounty Hunter" 0
+	Builder 0
+	Coalition 0
+	Deep 0
+	"Deep Security" 0
+	Derelict 0
+	Drak 0
+	"Free Worlds" 0
+	Hai 0
+	"Hai (Unfettered)" 0
+	Heliarch 0
+	Independent 0
+	"Indigenous Lifeform" 0
+	Ka'het 0
+	"Kor Efret" 0
+	"Kor Mereti" 0
+	"Kor Sestor" 0
+	Korath 0
+	"Korath Nanobots" 0
+	Marauder 0
+	Merchant 0
+	Militia 0
+	"Navy (Oathkeeper)" 0
+	"Navy Intelligence" 0
+	Neutral 0
+	Parrot 0
+	Pirate 0
+	Pug 0
+	"Pug (Wanderer)" 0
+	Quarg 0
+	Remnant 0
+	Republic 0
+	"Scar's Legion" 0
+	Syndicate 0
+	"Syndicate (Extremist)" 0
+	"Team Blue" 0
+	"Team Red" 0
+	"Test Dummy" 0
+	Uninhabited 0
+	Wanderer 0
+	"Wormhole Alpha" 0
